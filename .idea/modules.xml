@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FiguresPrintln/FiguresPrintln.iml" filepath="$PROJECT_DIR$/FiguresPrintln/FiguresPrintln.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java522/FiguresPrintln/FiguresPrintln.iml" filepath="$PROJECT_DIR$/Java522/FiguresPrintln/FiguresPrintln.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HomeWorkGIT.iml" filepath="$PROJECT_DIR$/.idea/HomeWorkGIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java522/FiguresPrintln/Operations/Operations.iml" filepath="$PROJECT_DIR$/Java522/FiguresPrintln/Operations/Operations.iml" />
     </modules>
   </component>
 </project>
